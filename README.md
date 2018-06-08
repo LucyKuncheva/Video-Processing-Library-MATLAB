@@ -34,3 +34,13 @@ A zip file `KeyframeSummaries.zip` containing a folder with two keyframe summari
 * documents
 
 `VID_Library.pdf` is a text explaining the content and the functioning of the toolbox.
+
+* related publications
+
+[1] Kuncheva, L. I., P. Yousefi and J. Almeida, Edited nearest neighbour for selecting keyframe summaries of egocentric videos, Journal of Visual Communication and Image Representation 52, 2018, 118–130. 
+
+[2] Kuncheva L. I., P. Yousefi and J. Almeida, Comparing Keyframe Summaries of Egocentric Videos: Closest-to-Centroid Baseline, Proceedings of The Seventh International Conference on Image Processing Theory, Tools and Applications (IPTA 2017), 2017, Montreal, Canada.
+
+[3] Kuncheva L. I., P. Yousefi and I. A. D. Gunn, On the Evaluation of Video Keyframe Summaries using User Ground Truth, arXiv:1712.06899, 2017.
+
+[4] Gunn I. A. D., L. I. Kuncheva, and P. Yousefi, Bipartite Graph Matching for Keyframe Summary Evaluation, arXiv:1712.06914, 2017.
